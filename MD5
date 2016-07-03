@@ -1,0 +1,12 @@
+18d1ae948aed49ef3e1677127b1f7c81 *DESCRIPTION
+fd5964d56b053304366e536881937e20 *NAMESPACE
+feaa97cf4b56c1265c017dafb17807c5 *NEWS.md
+39c5aca816acf4014b8d246ddbabda79 *R/vietnamcode.R
+6dfb593817d814cdfda8e728b7484e8e *R/vietnamcode_data.R
+a80b3e871dcb63fb9f00a5207c65756b *README.md
+7c5f727e9372ec58ac7881ea3fa7e111 *data/vietnamcode_data.csv
+b68f2d31393c02b2f95d0b1b967b516c *data/vietnamcode_data.rda
+2cbc7353644eec51457d4a51f92a70bd *man/vietnamcode.Rd
+e7d7c13814328eadb2417cfe3facd8e9 *man/vietnamcode_data.Rd
+8a6e118c9691dc3cef3ec9547ad20871 *tests/testthat.R
+ffa11e8848d5840517d252e0414771ef *tests/testthat/test-vietnamcode.R
